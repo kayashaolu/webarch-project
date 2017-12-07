@@ -44,6 +44,7 @@ Build something awesome
   - Please note: please install the linux version of the Heroku CLI on your vagrant box. All of these steps should be done on your vagrant box
  
 ### Prepare and deliver for your presentation
+ - Prep for a 10 minute presentation, and 5 minutes for questions
  - Please note: presentations in this class are demo's of the actual web application, not slides
  - **There will be a 15 point deduction of the project grade if slides are used in the presentation**
  
